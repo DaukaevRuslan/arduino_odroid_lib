@@ -1,0 +1,8 @@
+#comm
+getPosition	KEYWORD2
+getDataRangefinder	KEYWORD2
+getWheelOdometry	KEYWORD2
+moveTo	KEYWORD2
+startSLAM	KEYWORD2
+stopSLAM	KEYWORD2
+moveLift	KEYWORD2
